@@ -16,7 +16,7 @@ The App uses a number of open source projects to work properly:
 - [VS Code] - Awesome IDE
 - [Axios] - Fetching Data From Remote API.
 - [Redux Toolkit] - For State Management
-![screen_shot](https://github.com/sevmezabdullah/stock/assets/39024317/d8c090ee-8ca6-4371-a259-0b61159e7bdb)
+
 ## Installation
 
 The App requires [Node.js](https://nodejs.org/) v16+ to run.
@@ -28,5 +28,5 @@ cd stock
 npm i
 npm start
 ```
-
+![screen_shot](https://github.com/sevmezabdullah/stock/assets/39024317/d8c090ee-8ca6-4371-a259-0b61159e7bdb)
 
